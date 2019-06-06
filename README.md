@@ -18,7 +18,7 @@ which can be found below.
 - Success: `toast.success("Success!");`
 - Failure: `toast.error("Failed!");`
 
-# Live Example: TODO add live example
+# Live Example: https://boomcamp.github.io/react-3-mini
 
 ## Setup
 

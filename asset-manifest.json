@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-3-mini/static/css/main.a37a18ee.chunk.css",
+    "main.js": "/react-3-mini/static/js/main.c76b2752.chunk.js",
+    "main.js.map": "/react-3-mini/static/js/main.c76b2752.chunk.js.map",
+    "runtime~main.js": "/react-3-mini/static/js/runtime~main.e24b56b5.js",
+    "runtime~main.js.map": "/react-3-mini/static/js/runtime~main.e24b56b5.js.map",
+    "static/css/2.39017165.chunk.css": "/react-3-mini/static/css/2.39017165.chunk.css",
+    "static/js/2.ff8cdcac.chunk.js": "/react-3-mini/static/js/2.ff8cdcac.chunk.js",
+    "static/js/2.ff8cdcac.chunk.js.map": "/react-3-mini/static/js/2.ff8cdcac.chunk.js.map",
+    "index.html": "/react-3-mini/index.html",
+    "precache-manifest.885b5647f1da63e403898d8cbc21ba46.js": "/react-3-mini/precache-manifest.885b5647f1da63e403898d8cbc21ba46.js",
+    "service-worker.js": "/react-3-mini/service-worker.js",
+    "static/css/2.39017165.chunk.css.map": "/react-3-mini/static/css/2.39017165.chunk.css.map",
+    "static/css/main.a37a18ee.chunk.css.map": "/react-3-mini/static/css/main.a37a18ee.chunk.css.map",
+    "static/media/mainStreetAuto.svg": "/react-3-mini/static/media/mainStreetAuto.369efb76.svg"
+  }
+}
